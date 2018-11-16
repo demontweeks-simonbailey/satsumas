@@ -1,6 +1,6 @@
 {
     "name": "demontweeks-simon/my-satsumas-package",
-    "description": "All sorts of things about satsumas",
+    "description": "All sorts of things about satsumas and not oranges",
     "require" : {
         "demontweeks-simon/my-clementines-package": "dev-master@dev",
     }
