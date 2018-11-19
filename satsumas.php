@@ -1,3 +1,3 @@
 <?php
-echo "I get satsumas for Christmas<br />";
+echo "I get satsumas for Christmas (satsuma dependency)<br />";
 ?>
